@@ -1,0 +1,9 @@
+c:\users\lindal\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp1.1\ConsoleApp1.deps.json
+c:\users\lindal\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp1.1\ConsoleApp1.runtimeconfig.json
+c:\users\lindal\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp1.1\ConsoleApp1.runtimeconfig.dev.json
+c:\users\lindal\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp1.1\ConsoleApp1.dll
+c:\users\lindal\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp1.1\ConsoleApp1.pdb
+c:\users\lindal\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp1.1\ConsoleApp1.csprojResolveAssemblyReference.cache
+c:\users\lindal\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp1.1\ConsoleApp1.AssemblyInfo.cs
+c:\users\lindal\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp1.1\ConsoleApp1.dll
+c:\users\lindal\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp1.1\ConsoleApp1.pdb
